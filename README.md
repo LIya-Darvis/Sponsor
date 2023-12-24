@@ -88,13 +88,13 @@ s p o n s o r
 | --- | --- | --- |
 | 12 | Подготовка заявки | Определение необходимости в приобретении нового ПО |
 
-![Сценарий планирования проекта](https://github.com/LIya-Darvis/Sponsor/blob/main/chapter_1/Untitled 1.png)
+![Сценарий планирования проекта](https://github.com/LIya-Darvis/Sponsor/blob/main/chapter_1/Untitled_1.png)
 
 Сценарий планирования проекта
 
 ---
 
-![Процесс разработки ПО](https://github.com/LIya-Darvis/Sponsor/blob/main/chapter_1/Untitled 2.png)
+![Процесс разработки ПО](https://github.com/LIya-Darvis/Sponsor/blob/main/chapter_1/Untitled_2.png)
 
 Процесс разработки ПО
 
@@ -142,7 +142,7 @@ s p o n s o r
 | 5 | Удобство сопровождения | Легкость, с к-ой ПО может анализироваться, тестироваться, изменяться для исправления дефектов, для реализации новых требований, для облегчения дальнейшего обслуживания и адаптироваться к имеющемуся окружению |
 | 6 | Портативность | Характеризует ПО с точки зрения мобильности переноса из одного окружения в другое |
 
-![Процесс управления качеством](https://github.com/LIya-Darvis/Sponsor/blob/main/chapter_1/Untitled 3.png)
+![Процесс управления качеством](https://github.com/LIya-Darvis/Sponsor/blob/main/chapter_1/Untitled_3.png)
 
 Процесс управления качеством
 
